@@ -1,4 +1,2 @@
-git is a distributed version control system
-git is free sofeware under GPL.
-git had a mulitable call stage.
-git tracks change.
+标题：个人开发框架
+描述：集成一个自己用于快速开发Android应用的基础框架。
