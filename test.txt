@@ -1,4 +1,8 @@
 learn git
 dev change
+<<<<<<< HEAD
 change by master
 asdflkajsdf
+=======
+asdflkajsdf
+>>>>>>> 8f40b92189fb859bc0f5923a8b67278b94a4c1d1
